@@ -1,0 +1,65 @@
+# 🔒 Nexora Notifier — Privacy Policy
+
+**Last Updated:** October 21, 2026
+
+Nexora Notifier respects your privacy. This Privacy Policy explains what information may be collected, how it is used, and how you can request its deletion when using our Discord bot.
+
+## 1. Information We May Collect
+
+To provide notification services, Nexora Notifier may store:
+
+* **Discord Server IDs:** To identify servers where the bot is configured.
+* **Channel IDs:** To deliver alerts to the selected notification channels.
+* **Notification Settings:** Platform, creator/channel identifiers, and preferences configured by server administrators.
+* **Technical Logs:** Limited error and operational information needed to troubleshoot issues and maintain reliability.
+
+We do not intentionally collect Discord passwords or users' private messages for notification functionality.
+
+## 2. How We Use Information
+
+Information may be used to:
+
+* Deliver YouTube, Twitch, Kick, and X (Twitter) notifications.
+* Save and maintain server notification configurations.
+* Diagnose errors and improve bot reliability.
+* Prevent abuse and troubleshoot technical issues.
+
+We do not sell users' personal information.
+
+## 3. Data Storage and Security
+
+Configuration data may be stored in a database, such as MongoDB, depending on the bot's deployment. We take reasonable measures to protect stored information, but no system can guarantee absolute security.
+
+Access to operational data should be limited to authorized personnel.
+
+## 4. Third-Party Services
+
+Nexora Notifier relies on third-party platforms and APIs, including YouTube, Twitch, Kick, and X (Twitter). When retrieving public creator updates, relevant requests may be processed by those platforms under their own privacy policies and terms.
+
+Nexora Notifier is independently operated and is not officially affiliated with these platforms.
+
+## 5. Data Sharing
+
+We do not sell personal information. Data may be processed by infrastructure providers necessary to operate the bot, such as database or hosting providers, or disclosed when required by applicable law.
+
+## 6. Data Retention and Deletion
+
+Configuration data may be retained while the bot is configured in a Discord server. When a server no longer needs the service, its administrator may request the deletion of associated stored configuration data.
+
+To request access to or deletion of data, contact the Nexora Notifier development team through our official support server.
+
+## 7. Children's Privacy
+
+Nexora Notifier is not designed to collect personal information directly from children. Users should follow Discord's age requirements and applicable laws in their region.
+
+## 8. Changes to This Policy
+
+This Privacy Policy may be updated when the bot's features or data practices change. The latest version will be published at the designated Privacy Policy URL.
+
+## 9. Contact Us
+
+For privacy questions or data deletion requests, contact the Nexora Notifier development team through our official Discord support server.
+
+**By using Nexora Notifier, you acknowledge this Privacy Policy.**
+
+© 2026 Nexora Notifier. All rights reserved.
